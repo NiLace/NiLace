@@ -9,38 +9,67 @@ in [Ardour](https://ardour.org), on Linux.
 
 ---
 
-## Plugins
+## Pedals
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/NiLace/Dynamo0C">
-<img src="https://raw.githubusercontent.com/NiLace/Dynamo0C/main/assets/images/panel.png" alt="Dynamo 0C EQ" width="180">
-</a>
-<h3><a href="https://github.com/NiLace/Dynamo0C">Dynamo 0C</a></h3>
-<b>Console-style 4-band EQ</b> · stereo<br><br>
-Four proportional-Q bands, high- and low-pass filters and an asymmetric channel drive, voiced like the channel
-strip of a classic analogue desk. Each band comes from the circuit's transfer function, so the curves keep their
-analogue shape all the way up to Nyquist.
-</td>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <a href="https://github.com/NiLace/TheOmegaCake">
-<img src="https://raw.githubusercontent.com/NiLace/TheOmegaCake/main/assets/images/panel.png" alt="The Omega Cake" width="180">
+<img src="https://raw.githubusercontent.com/NiLace/TheOmegaCake/main/assets/images/panel.png" alt="The Omega Cake" height="220">
 </a>
 <h3><a href="https://github.com/NiLace/TheOmegaCake">The Omega Cake</a></h3>
-<b>Four-transistor fuzz, 45 circuits</b> · mono<br><br>
-The 1969 fuzz and the whole family that grew out of it: original boards, op-amp versions, clones and mods. Every
-model is solved from its components and checked against a circuit simulator.
+<b>Fuzz · 45 circuits</b><br><br>
+The four-transistor fuzz of 1969 and the whole family that grew out of it: original boards, op-amp versions, clones and mods, each solved from its components.
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/NiLace/ValveHowler">
+<img src="https://raw.githubusercontent.com/NiLace/ValveHowler/main/assets/images/panel.png" alt="Valve Howler" height="220">
+</a>
+<h3><a href="https://github.com/NiLace/ValveHowler">Valve Howler</a></h3>
+<b>Smooth overdrive</b><br><br>
+The classic screamer-style overdrive for guitar and bass, with selectable circuit variants and coefficients generated straight from the netlist.
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/NiLace/BlueBrigade">
+<img src="https://raw.githubusercontent.com/NiLace/BlueBrigade/main/assets/images/panel.png" alt="Blue Brigade" height="220">
+</a>
+<h3><a href="https://github.com/NiLace/BlueBrigade">Blue Brigade</a></h3>
+<b>Analogue chorus · 1979</b><br><br>
+The little blue box that became the sound of the 1980s: a bucket-brigade delay line and a triangle LFO, modelled stage by stage.
 </td>
 </tr>
 </table>
 
-<!--
-## In the workshop
+## Amps, studio & tools
 
-Add upcoming plugins here once they have a public repo, e.g.:
-- **The Shrike** — brickwall limiter
--->
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/NiLace/MK81">
+<img src="https://raw.githubusercontent.com/NiLace/MK81/main/assets/images/panel.png" alt="MK 81" width="240">
+</a>
+<h3><a href="https://github.com/NiLace/MK81">MK 81</a></h3>
+<b>British valve amp head</b><br><br>
+The early-1980s master-volume lead head, in four power-valve versions and two power-supply eras, with a power stage that sags and growls when pushed.
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/NiLace/Dynamo0C">
+<img src="https://raw.githubusercontent.com/NiLace/Dynamo0C/main/assets/images/panel.png" alt="Dynamo 0C" height="220">
+</a>
+<h3><a href="https://github.com/NiLace/Dynamo0C">Dynamo 0C</a></h3>
+<b>Console-style 4-band EQ · stereo</b><br><br>
+Four proportional-Q bands, high- and low-pass filters and a channel drive, with curves that keep their analogue shape up to Nyquist.
+</td>
+<td width="33%" align="center" valign="top">
+<a href="https://github.com/NiLace/TheMonoHawk">
+<img src="https://raw.githubusercontent.com/NiLace/TheMonoHawk/main/assets/images/mono_front_panel.png" alt="The Mono Hawk" width="240">
+</a>
+<h3><a href="https://github.com/NiLace/TheMonoHawk">The Mono Hawk</a></h3>
+<b>Chromatic tuner</b><br><br>
+Sub-cent tracking down to a 5/6-string bass low B, a strobe view, 50 tunings and a reference tone, in a rack-unit display.
+</td>
+</tr>
+</table>
 
 ---
 
